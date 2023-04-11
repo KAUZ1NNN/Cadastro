@@ -1,0 +1,14 @@
+C:\Users\CASEMIRO\source\repos\CadastroT\Interfacess\bin\Release\Interfacess.dll.config
+C:\Users\CASEMIRO\source\repos\CadastroT\Interfacess\bin\Release\Interfacess.dll
+C:\Users\CASEMIRO\source\repos\CadastroT\Interfacess\bin\Release\Interfacess.pdb
+C:\Users\CASEMIRO\source\repos\CadastroT\Interfacess\bin\Release\Entidades.dll
+C:\Users\CASEMIRO\source\repos\CadastroT\Interfacess\bin\Release\EntityFramework.dll
+C:\Users\CASEMIRO\source\repos\CadastroT\Interfacess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\CASEMIRO\source\repos\CadastroT\Interfacess\bin\Release\Entidades.pdb
+C:\Users\CASEMIRO\source\repos\CadastroT\Interfacess\bin\Release\EntityFramework.xml
+C:\Users\CASEMIRO\source\repos\CadastroT\Interfacess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\CASEMIRO\source\repos\CadastroT\Interfacess\obj\Release\Interfacess.csproj.AssemblyReference.cache
+C:\Users\CASEMIRO\source\repos\CadastroT\Interfacess\obj\Release\Interfacess.csproj.CoreCompileInputs.cache
+C:\Users\CASEMIRO\source\repos\CadastroT\Interfacess\obj\Release\Interfacess.csproj.CopyComplete
+C:\Users\CASEMIRO\source\repos\CadastroT\Interfacess\obj\Release\Interfacess.dll
+C:\Users\CASEMIRO\source\repos\CadastroT\Interfacess\obj\Release\Interfacess.pdb

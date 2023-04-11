@@ -1,0 +1,6 @@
+C:\Users\CASEMIRO\source\repos\CadastroT\Entidades\bin\Release\Entidades.dll
+C:\Users\CASEMIRO\source\repos\CadastroT\Entidades\bin\Release\Entidades.pdb
+C:\Users\CASEMIRO\source\repos\CadastroT\Entidades\obj\Release\Entidades.csproj.AssemblyReference.cache
+C:\Users\CASEMIRO\source\repos\CadastroT\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\CASEMIRO\source\repos\CadastroT\Entidades\obj\Release\Entidades.dll
+C:\Users\CASEMIRO\source\repos\CadastroT\Entidades\obj\Release\Entidades.pdb
